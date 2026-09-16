@@ -17,7 +17,7 @@ Vous parcourez le catalogue, vous ajoutez ce qui vous plaît au panier, et vous 
 Que vous soyez sur votre téléphone dans le bus ou tranquillement installé devant votre ordinateur, tout est pensé pour que l'expérience reste fluide, agréable, et rapide.
 
 ---
-
+<!-- 
 ## 📸 Un aperçu
 
 <div align="center">
@@ -42,7 +42,7 @@ Que vous soyez sur votre téléphone dans le bus ou tranquillement installé dev
   <img src="https://github.com/mohamed005cheikh-rgb/shop-mc88/raw/main/images/Sr2.gif" alt="Valider la commande sur WhatsApp" width="100%" />
 </div>
 
----
+----->
 
 ## ✨ Ce que vous trouverez
 
